@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_eu_full_seats",
+  "source_file": "Prog_Etudes_Elec_UE2024.sas",
+  "source_blob_sha": "303036a4ebe8e749132e252866d7b31e70e6b2fb",
+  "source_commit": "7b082437b5f8734ef411de9760cf210624c99c38",
+  "_captured_run_id": "r_1a8155d67d79490bb0e3c5e5fa0eece3",
+  "notes": "Core pipeline: builds eu + groups (FR/EN) inline from eu.csv/groups.csv (the four PROC IMPORT of hardcoded ~/ELEC_EU24/*.csv replaced with equivalent DATA steps), then runs the author's unchanged PROC SQL joins (groups_fr, groups_en, eu_full) and PROC PRINT of the seat distribution. 9 groups printed, FR acronyms and labels resolved."
+}

@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-14T05:40:00Z",
+  "_captured_run_id": "see meta.json",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Table groups_fr created.",
+    "Table groups_en created.",
+    "Table eu_full created.",
+    "PROC PRINT completed: 9 observations printed, 5 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "output_contains": [
+    "Répartition des sièges par groupe politique (UE 2024)",
+    "Groupe du Parti populaire européen"
+  ],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
