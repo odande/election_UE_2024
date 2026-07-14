@@ -1,0 +1,15 @@
+                                Répartition des sièges par groupe politique (UE 2024)
+
+
+ group_id    acronym_fr  seats_total  seats_percent_eu                                                                                 label_fr
+---------  ------------  -----------  ----------------  ---------------------------------------------------------------------------------------
+EPP        PPE                   188             26.11  Groupe du Parti populaire européen (Démocrates-Chrétiens)
+SD         S&D                   136             18.89  Groupe de l'Alliance Progressiste des Socialistes et Démocrates au Parlement européen
+ECR        ECR                    78             10.83  Groupe des Conservateurs et Réformistes européens
+Renew      Renew Europe           77             10.69  Groupe Renew Europe
+Theleft    The Left               46              6.39  Le groupe de la gauche au Parlement européen - GUE/NGL
+GREENSEFA  Verts/ALE              53              7.36  Groupe des Verts/Alliance libre européenne
+PfE        PfE                    84             11.67  Patriots for Europe
+ESN        ESN                    25              3.47  Europe of Sovereign Nations
+NI         NI                     33              4.58  Non-inscrits
+

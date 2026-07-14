@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-14T05:42:00Z",
+  "_captured_run_id": "see meta.json",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote gender (27 rows, 3 columns).",
+    "PROC PRINT completed: 27 observations printed, 3 variables",
+    "Médiane du % de femmes = 36.46",
+    "PROC MEANS statement used."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "output_contains": [
+    "Équilibre hommes / femmes par pays (%)",
+    "The MEANS Procedure"
+  ],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

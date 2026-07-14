@@ -1,0 +1,34 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T020019Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA eu
+
+NOTE: Processing inline DATALINES (9 lines)
+
+NOTE: Read 9 rows from DATALINES.
+NOTE: Wrote eu (9 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA groups
+
+NOTE: Processing inline DATALINES (18 lines)
+
+NOTE: Read 18 rows from DATALINES.
+NOTE: Wrote groups (18 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table groups_fr created.
+NOTE: Table groups_en created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table eu_full created.
+NOTE: PROC SQL statement used.
+NOTE: Option TITLE changed to Répartition des sièges par groupe politique (UE 2024).
+NOTE: PROC PRINT data=eu_full
+
+NOTE: PROC PRINT completed: 9 observations printed, 5 variables

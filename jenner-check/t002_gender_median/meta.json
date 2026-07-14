@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_gender_median",
+  "source_file": "Prog_Etudes_Elec_UE2024.sas",
+  "source_blob_sha": "303036a4ebe8e749132e252866d7b31e70e6b2fb",
+  "source_commit": "7b082437b5f8734ef411de9760cf210624c99c38",
+  "_captured_run_id": "r_bffe23d0ee754b5baeb164299711b84a",
+  "notes": "Gender-balance slice: builds gender inline from gender-balance-country.csv (27 countries; the PROC IMPORT of hardcoded ~/ELEC_EU24/gender-balance-country.csv replaced with an equivalent DATA step), runs the author's median(women) into :med_women PROC SQL, PROC PRINT, and adds a PROC MEANS summary. Median of women resolves to 36.46, consistent with the MEANS output."
+}
